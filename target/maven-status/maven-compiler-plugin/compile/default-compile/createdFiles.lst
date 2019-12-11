@@ -1,0 +1,8 @@
+mx\com\gm\sga\servicio\ClienteServiceRemote.class
+dominio\Cliente.class
+mx\com\gm\sga\servicio\ClienteServiceImpl.class
+datos\ClienteDao.class
+mx\com\gm\sga\servicio\ClienteService.class
+mx\com\gm\sga\web\ConfiguracionBean.class
+datos\ClienteDaoImpl.class
+mx\com\gm\sga\web\ClienteBean.class
